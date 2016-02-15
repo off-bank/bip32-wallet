@@ -3,7 +3,7 @@ var bip69 = require('bip69')
 var bitcoin = require('bitcoinjs-lib')
 var each = require('async-each')
 
-var openassets = require('openassets')
+//var openassets = require('openassets')
 
 var foobar = {
   base58: require('bs58'),
